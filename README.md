@@ -10,5 +10,3 @@ Full-stack engineer focused on **AI products** — agents, RAG, and the systems 
 ### 🛠️ Tech I reach for
 `TypeScript` · `Python` · `React / Next.js` · `FastAPI` · `Node.js` · `RAG` · `LangGraph` · `MCP` · `PostgreSQL / pgvector` · `Redis` · `Docker` · `AWS / GCP`
 
-### 📫 Reach me
-contact@siddharth-dev.tech
